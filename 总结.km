@@ -1,0 +1,503 @@
+{
+    "root": {
+        "data": {
+            "id": "deg0q7cklb40",
+            "created": 1763895380882,
+            "text": "博客化"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "deg3ft6xodk0",
+                    "created": 1763903029755,
+                    "text": "技术路线",
+                    "expandState": "collapse"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "deg3k1j381c0",
+                            "created": 1763903361361,
+                            "text": "后端",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "deg3jkdbdpk0",
+                                    "created": 1763903324006,
+                                    "text": "Java",
+                                    "background": "#00b050"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "deg3qsp1clc0",
+                                            "created": 1763903890678,
+                                            "text": "基础"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "deg3qusj5140",
+                                            "created": 1763903895243,
+                                            "text": "Web"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "deg3k9z85pk0",
+                                    "created": 1763903379751,
+                                    "text": "Python",
+                                    "background": "#00b050"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "deg3l0yriy00",
+                                    "created": 1763903438496,
+                                    "text": "Go"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "deg3kkvk38g0",
+                            "created": 1763903403473,
+                            "text": "前端"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "deg3kopvwyw0",
+                                    "created": 1763903411838,
+                                    "text": "html"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "deg3kumxsgg0",
+                                    "created": 1763903424720,
+                                    "text": "css"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "deg3kwmppw00",
+                                    "created": 1763903429061,
+                                    "text": "javascript"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "deg3xyvd0rc0",
+                                    "created": 1763904452671,
+                                    "text": "Flex"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "deg3l8hotx40",
+                            "created": 1763903454878,
+                            "text": "中间件"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "deg3lethjm00",
+                                    "created": 1763903468652,
+                                    "text": "数据库"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "deg3ljgc8s00",
+                                            "created": 1763903478741,
+                                            "text": "标准SQL",
+                                            "background": "#00b050"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "deg3lgxfxtk0",
+                                            "created": 1763903473244,
+                                            "text": "MySQL",
+                                            "background": "#00b050"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "deg3lqi9hqo0",
+                                            "created": 1763903494094,
+                                            "text": "MongoDB"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "deg3ltk7dvk0",
+                                            "created": 1763903500742,
+                                            "text": "Oracle"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "deg3lwlv05c0",
+                                            "created": 1763903507373,
+                                            "text": "SQLite",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "deg3m65334w0",
+                                    "created": 1763903528126,
+                                    "text": "缓存",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "deg3zl2jyig0",
+                                            "created": 1763904579359,
+                                            "text": "缓存失效算法"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "deg3mf1p6340",
+                                            "created": 1763903547512,
+                                            "text": "Guava Cache",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "deg3mcojpdc0",
+                                            "created": 1763903542364,
+                                            "text": "Redis",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "deg3mlsra6g0",
+                                            "created": 1763903562209,
+                                            "text": "EhCache"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "deg3mtb99yw0",
+                                    "created": 1763903578565,
+                                    "text": "服务器"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "deg3mytth4o0",
+                                            "created": 1763903590572,
+                                            "text": "Tomcat",
+                                            "background": "#00b050"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "deg3n11uc4w0",
+                                            "created": 1763903595410,
+                                            "text": "Apache"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "deg3n7i5wnc0",
+                                            "created": 1763903609458,
+                                            "text": "Jetty"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "deg3rfs6img0",
+                                    "created": 1763903940934,
+                                    "text": "消息队列"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "deg3rjc30k00",
+                                            "created": 1763903948668,
+                                            "text": "Kafka"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "deg3rp1f0kw0",
+                                            "created": 1763903961084,
+                                            "text": "RabbitMQ"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "deg3ru0jdmg0",
+                                            "created": 1763903971915,
+                                            "text": "RocketMQ"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "deg3ps70jj40",
+                            "created": 1763903811224,
+                            "text": "编程进阶",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "deg3oh69cso0",
+                                    "created": 1763903708870,
+                                    "text": "设计模式"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "deg3pijh80o0",
+                                    "created": 1763903790210,
+                                    "text": "数据结构"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "deg3pnsrps80",
+                                    "created": 1763903801656,
+                                    "text": "算法"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "deg3viqd8cw0",
+                            "created": 1763904260812,
+                            "text": "分布式基础",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "deg3vu2nn680",
+                                    "created": 1763904285499,
+                                    "text": "理论"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "deg3vxq87s00",
+                                            "created": 1763904293455,
+                                            "text": "CAP"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "deg3vzdgivk0",
+                                            "created": 1763904297037,
+                                            "text": "BASE"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "deg3w2o0b940",
+                                    "created": 1763904304205,
+                                    "text": "一致性算法（共识）"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "deg3wkgtta00",
+                                            "created": 1763904342953,
+                                            "text": "Paxos算法"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "deg3wfsp5gg0",
+                                            "created": 1763904332787,
+                                            "text": "Raft算法"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "deg3xavb81c0",
+                                            "created": 1763904400425,
+                                            "text": "ZAB算法"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "deg3xf96d800",
+                                            "created": 1763904409971,
+                                            "text": "Gossip算法"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "deg3wabfn5c0",
+                                    "created": 1763904320859,
+                                    "text": "一致性Hash算法"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "deg3ubt85sw0",
+                            "created": 1763904167383,
+                            "text": "微服务"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "deg3ueylvr40",
+                                    "created": 1763904174239,
+                                    "text": "Spring Cloud"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "deg3uk5aytk0",
+                                    "created": 1763904185528,
+                                    "text": "Apache Dubbo"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "deg3v7vz0ao0",
+                                            "created": 1763904237206,
+                                            "text": "主流语言均支持"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "deg40rx3jz40",
+                    "created": 1763904672631,
+                    "text": "服务架构",
+                    "layout_mind_offset": {
+                        "x": 567.4999774495775,
+                        "y": 162.4999935428304
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "deg418thveg0",
+                            "created": 1763904709418,
+                            "text": "原始分布式"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "deg492eyg140",
+                            "created": 1763905322392,
+                            "text": "单体系统"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "deg49bkogio0",
+                            "created": 1763905342329,
+                            "text": "SOA"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "deg49g096280",
+                            "created": 1763905351978,
+                            "text": "微服务"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "deg49js8fb40",
+                            "created": 1763905360200,
+                            "text": "后微服务"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "deg49m68pko0",
+                            "created": 1763905365400,
+                            "text": "无服务"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
