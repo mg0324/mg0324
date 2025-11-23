@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 - 🔭 目前正在全职java后端，偏安全领域。
 - 🌱 目前正在学习和总结之前的内容，包括笔记、文章、博客等。
+- 😄 对文档笔记工具docsify有一定研究，仿写实现了mangodoc自己的笔记工具，并实现了一些插件，为社区做出贡献。
 
-
-# 制作的教程
-1. [docsify-note](https://space.bilibili.com/1174515315/lists/1017117?type=season) - 基于docsify轻松构建您的在线笔记
+# 文档工具贡献
+- [docsify-note](https://github.com/docsify-note/docsify-note) - 基于docsify的在线笔记工具学习，详细请跳转 [docsify-note网站](https://docsify-note.meiflower.top/)。
+- [mangodoc](https://github.com/mangodoc/mangodoc) - 自实现的文档工具，用于生成文档，详细请跳转 [mangodoc网站](https://mangodoc.meiflower.top/)。
+- [docsify-note的B站视频教程](https://space.bilibili.com/1174515315/lists/1017117?type=season) - 基于docsify轻松构建您的在线笔记
