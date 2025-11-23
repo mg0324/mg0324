@@ -1,4 +1,4 @@
-## Hi there 👋
+# 关于作者 👋
 
 <!--
 **mg0324/mg0324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 目前正在全职java后端，偏安全领域。
+- 🌱 目前正在学习和总结之前的内容，包括笔记、文章、博客等。
+
+
+# 制作的教程
+1. [docsify-note](https://space.bilibili.com/1174515315/lists/1017117?type=season) - 基于docsify轻松构建您的在线笔记
